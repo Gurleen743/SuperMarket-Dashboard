@@ -8,6 +8,8 @@
 7.Why does clothing account for the largest quantity of sales (63%) compared to furniture and electronics?
 8.Which sub-category generates the highest profit, and by what margin?
 9.Why do sarees generate lower profits compared to other sub-categories like printers or phones?
+
+
 **Report Insights**
 1.The "Sum of Amount" represents total sales revenue (161K), while the "Sum of Profit" (26K) indicates net earnings after expenses. The significant difference suggests high operational costs or low profit margins.
 2.Maharashtra and Madhya Pradesh have the highest quantity distribution among states, with Maharashtra leading. Among customers, Harivansh contributes the most, followed by Shiva.
